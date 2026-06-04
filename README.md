@@ -1,4 +1,4 @@
-# 🔐 HashCrack Pro v2.0
+#  HashCrack Pro v2.0
 ### Real-Time Password Hash Cracking Suite | Red Team Internship Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
@@ -7,11 +7,11 @@
 ![Version](https://img.shields.io/badge/Version-2.0-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-> ⚠️ **Disclaimer:** This tool is built strictly for **educational and ethical purposes** as part of a Red Team internship project. Do NOT use on systems you do not own or have explicit permission to test.
+>  **Disclaimer:** This tool is built strictly for **educational and ethical purposes** as part of a Red Team internship project. Do NOT use on systems you do not own or have explicit permission to test.
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 **HashCrack Pro v2.0** is a full-featured GUI desktop tool for cracking password hashes in real time.
 
@@ -21,7 +21,7 @@ This tool was developed as part of a **15-day Cybersecurity Internship** focusin
 
 ---
 
-## 🖥️ Tool Preview
+##  Tool Preview
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -33,7 +33,7 @@ This tool was developed as part of a **15-day Cybersecurity Internship** focusin
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |--------|-------------|
@@ -50,7 +50,7 @@ This tool was developed as part of a **15-day Cybersecurity Internship** focusin
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Library | Purpose |
 |---------|---------|
@@ -62,11 +62,11 @@ This tool was developed as part of a **15-day Cybersecurity Internship** focusin
 | `datetime` | Timestamps in reports |
 | `os` | File handling |
 
-> ✅ No external packages needed — all built-in Python libraries!
+>  No external packages needed — all built-in Python libraries!
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -86,7 +86,7 @@ sudo gunzip /usr/share/wordlists/rockyou.txt.gz
 
 ---
 
-## 🧪 Quick Test
+##  Quick Test
 
 ### Step 1 — Generate test hashes in terminal
 ```bash
@@ -115,7 +115,7 @@ python3 hashcrack_pro_advanced.py
 
 ---
 
-## 🗂️ Tab Guide
+## Tab Guide
 
 ### 📖 Tab 1 — Wordlist Attack
 - Paste hash → Detect type → Load wordlist → Start cracking
@@ -136,7 +136,7 @@ python3 hashcrack_pro_advanced.py
 
 ---
 
-## 📊 Live Dashboard
+##  Live Dashboard
 
 While cracking, the top dashboard shows live stats:
 
@@ -150,7 +150,7 @@ While cracking, the top dashboard shows live stats:
 
 ---
 
-## 💾 Export Formats
+##  Export Formats
 
 | Format | Best For |
 |--------|---------|
@@ -160,7 +160,7 @@ While cracking, the top dashboard shows live stats:
 
 ---
 
-## 🔐 Supported Hash Types
+##  Supported Hash Types
 
 | Algorithm | Hash Length | Example Use |
 |-----------|------------|-------------|
@@ -173,7 +173,7 @@ While cracking, the top dashboard shows live stats:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 HashCrack-Pro/
@@ -192,7 +192,7 @@ HashCrack-Pro/
 
 ---
 
-## 🔴 How It Works
+##  How It Works
 
 ```
 User enters hash
@@ -216,7 +216,7 @@ Export Report (TXT / HTML / CSV)
 
 ---
 
-## 🛡️ Defence Recommendations (Blue Team)
+##  Defence Recommendations (Blue Team)
 
 | Attack | Defence |
 |--------|---------|
@@ -227,7 +227,7 @@ Export Report (TXT / HTML / CSV)
 
 ---
 
-## ⚠️ Ethical Use
+##  Ethical Use
 
 This tool is for **educational purposes only**.
 
@@ -239,7 +239,7 @@ This tool is for **educational purposes only**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 - 🎓 Cybersecurity Internship — Red Team (2024)
@@ -248,17 +248,13 @@ This tool is for **educational purposes only**.
 
 ---
 
-## 📜 License
+##  License
 
 This project is for **educational use only**.
 Use responsibly and ethically.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this useful, please give it a ⭐ star — it helps a lot!
-
-```
-⭐ Star   🍴 Fork   📢 Share
-```
