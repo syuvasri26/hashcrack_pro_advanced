@@ -1,0 +1,15 @@
+# HashCrack Pro - Requirements
+# All libraries used are Python built-ins
+# No external packages required!
+
+# Built-in modules used:
+# - tkinter     (GUI)
+# - hashlib     (Hash algorithms)
+# - threading   (Background cracking)
+# - os          (File operations)
+# - datetime    (Timestamps)
+# - time        (Speed calculation)
+
+# Optional - for future brute force extension:
+# itertools   (built-in)
+# string      (built-in)
